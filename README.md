@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header con Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+Daniel+Valencia+Cordero+%F0%9F%91%8B;Desarrollador+Backend+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Microservicios" alt="Typing SVG" /></a>
+<a href="https://github.com/DvC99">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Daniel+Valencia;Backend+Developer;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+Enthusiast" alt="Typing SVG" />
+</a>
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvalenciacordero/)
@@ -21,7 +23,7 @@ public class DanielValenciaCordero {
     private String rol = "Desarrollador Backend";
     private String[] lenguajes = {"Java", "Python", "TypeScript", "JavaScript"};
     private String[] frameworks = {"Spring Boot", "Angular"};
-    private String ubicacion = "🌎 Latinoamérica";
+    private String[] databases = {"Oracle DB", "MongoDB", "PostgreSQL"};
     
     public String getContacto() {
         return "linkedin.com/in/danielvalenciacordero";
@@ -51,7 +53,7 @@ public class DanielValenciaCordero {
 
 ### 🗄️ Bases de Datos
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Herramientas
@@ -68,9 +70,11 @@ public class DanielValenciaCordero {
 
 <div align="center">
 
-[![Plantilla Backend Relacional](https://github-readme-stats.vercel.app/api/pin/?username=DvC99&repo=plantilla-bck-relacional&theme=tokyonight)](https://github.com/DvC99/plantilla-bck-relacional)
+[![Plantilla Backend Relacional](https://github-readme-stats.vercel.app/api/pin/?username=DvC99&repo=plantilla-bck-relacional&theme=tokyonight&hide_border=true)](https://github.com/DvC99/plantilla-bck-relacional)
 
-**Template con Arquitectura Hexagonal en Java + Spring Boot**
+**🏗️ Template con Arquitectura Hexagonal en Java + Spring Boot**
+
+*Incluye manejo de eventos de dominio, servicios genéricos CRUD, mappers con MapStruct y buenas prácticas de Clean Architecture.*
 
 </div>
 
@@ -80,11 +84,11 @@ public class DanielValenciaCordero {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DvC99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DvC99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DvC99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DvC99&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvC99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvC99&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
 
 </div>
 
@@ -94,28 +98,18 @@ public class DanielValenciaCordero {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DvC99&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=DvC99&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🐍 Contribuciones
+## 📫 ¡Conectemos!
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DvC99/DvC99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 📫 Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Valencia_Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvalenciacordero/)
-[![GitHub](https://img.shields.io/badge/GitHub-DvC99-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DvC99)
+[![LinkedIn](https://img.shields.io/badge/Daniel_Valencia_Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvalenciacordero/)
+[![GitHub](https://img.shields.io/badge/DvC99-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DvC99)
 
 </div>
 
@@ -123,6 +117,6 @@ public class DanielValenciaCordero {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 
 </div>
