@@ -1,16 +1,128 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DvC99/DvC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header con Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+Daniel+Valencia+Cordero+%F0%9F%91%8B;Desarrollador+Backend+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Microservicios" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvalenciacordero/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DvC99)
+![Profile Views](https://komarev.com/ghpvc/?username=DvC99&style=for-the-badge&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 💻 Sobre mí
+
+```java
+public class DanielValenciaCordero {
+    
+    private String nombre = "Daniel Valencia Cordero";
+    private String rol = "Desarrollador Backend";
+    private String[] lenguajes = {"Java", "Python", "TypeScript", "JavaScript"};
+    private String[] frameworks = {"Spring Boot", "Angular"};
+    private String ubicacion = "🌎 Latinoamérica";
+    
+    public String getContacto() {
+        return "linkedin.com/in/danielvalenciacordero";
+    }
+    
+    public String getMensaje() {
+        return "¡Construyendo soluciones robustas y escalables! 🚀";
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🚀 Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🗄️ Bases de Datos
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+[![Plantilla Backend Relacional](https://github-readme-stats.vercel.app/api/pin/?username=DvC99&repo=plantilla-bck-relacional&theme=tokyonight)](https://github.com/DvC99/plantilla-bck-relacional)
+
+**Template con Arquitectura Hexagonal en Java + Spring Boot**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DvC99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DvC99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvC99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DvC99&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DvC99/DvC99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Valencia_Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvalenciacordero/)
+[![GitHub](https://img.shields.io/badge/GitHub-DvC99-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DvC99)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+</div>
